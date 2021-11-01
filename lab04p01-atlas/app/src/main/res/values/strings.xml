@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mashrooms Atlas</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string-array name="opisy">
+        <item>
+            Boletus edulis (Boletus edulis Bull.) - a species of fungi from the boletus family (Boletaceae) [3],
+             colloquially called a bolete. It is found in North America (mainly west of the Rocky Mountains, less common
+             in the central and eastern parts of the continent) and in Europe [4]. Moreover, it was brought to New Zealand [5] i
+             southern Africa [6].
+        </item>
+        <item>
+             Pieczarka dwuzarodnikowa (Agaricus bisporus (J.E. Lange) Imbach) – gatunek grzybów z rodziny pieczarkowatych
+            (Agaricaceae)[1]. Rośnie dziko, ale jest też powszechnie uprawiana w pieczarkarniach i sprzedawana
+            w sklepach[2].
+        </item>
+        <item>
+            Muchomor czerwony (Amanita muscaria (L.) Lam.) – gatunek grzybów należący do rodziny muchomorowatych
+            (Amanitaceae)[1].
+        </item>
+    </string-array>
+</resources>
