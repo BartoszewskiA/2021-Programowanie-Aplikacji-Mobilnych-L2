@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kasyno</string>
+    <string-array name="rodzajeGier">
+        <item>Parzyste</item>
+        <item>Nieparzyste</item>
+        <item>Podzielne przez 3</item>
+        <item>Podzielne przez 5</item>
+    </string-array>
+</resources>
